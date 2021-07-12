@@ -17,12 +17,12 @@ the ISO's model document of an international standard.
 
 [source,sh]
 ----
-git clone https://github.com/metanorma/mn-samples-iso/
+git clone https://github.com/metanorma/mn-samples-standoc/
 ----
 
 == Installing Build Tools
 
-See https://www.metanorma.com/overview/getting-started/
+See https://www.metanorma.org/install/[Metanorma documentation]
 
 
 == Running via Docker or locally
@@ -48,46 +48,24 @@ metanorma site generate
 
 == Source files provided in this repo
 
-* `iso-rice-en.adoc`: Metanorma-ISO markup source document for the Rice document, in English
+* `document.adoc`: Metanorma Asciidoc markup source document for the Rice document, referencing the individual files in `sections/*`
 
 * `sections/*`: The Metanorma-ISO markup source document for the Rice document, broken up into separate files for each section
-
-* `iso-rice-en-sections.adoc`: Metanorma-ISO markup source document for the Rice document, referencing the individual files in `sections/*`
-
-* `iso-rice-zh.adoc`: Metanorma-ISO markup source document for the Rice document, in Chinese
 
 
 == Description of generated artifacts
 
-* `{filename}-{lang}.xml`: Metanorma-ISO XML output corresponding to the `{filename}-{lang}.adoc` source
+* `{filename}-{lang}.xml`: Metanorma XML output corresponding to the `{filename}-{lang}.adoc` source
 
-* `{filename}-{lang}.html`: Metanorma-ISO HTML output corresponding to the `{filename}-{lang}.adoc` source
+* `{filename}-{lang}.html`: Metanorma HTML output corresponding to the `{filename}-{lang}.adoc` source
 
-* `{filename}-{lang}-alt.html`: Metanorma-ISO "`readability-optimized`" HTML output corresponding to the `{filename}-{lang}.adoc` source
-
-
-== Managing an IsoDoc
-
-=== General
-
-The Rice document is given here both as a single source document and broken up into separate files, to illustrate both ways of managing Metanorma content.
-
-=== Single file
-
-There are two document examples provided here:
-
-* `iso-rice-en.adoc`: the Rice document in English
-* `iso-rice-zh.adoc`: the Rice document as translated to Chinese
-
-For each language:
-
-* the file `iso-rice-{lang}.adoc` provides the document header
-* the file `body/body-{lang}.adoc` provides the content body.
+* `{filename}-{lang}-alt.html`: Metanorma "`readability-optimized`" HTML output corresponding to the `{filename}-{lang}.adoc` source
 
 
-=== Multiple files
 
-The document `iso-rice-en-sections.adoc` includes the document header and the following files.
+=== Building a document from multiple files
+
+The document `document.adoc` includes the document header and the following files.
 
 The section files are listed in order of appearance in the document, and each corresponds to a first-level clause of the Rice document:
 
