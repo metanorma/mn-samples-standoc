@@ -1,0 +1,16 @@
+.Foreword
+
+Metanorma is the standard for standards.
+Metanorma allows you to focus on writing the standard document and handles all the formalities, such as references and formatting. 
+
+To learn how to use Metanorma, follow the tutorials on www.metanorma.org/tutorials. 
+
+This document was prepared by Technical Committee ISO/TC {technical-committee-number}, _{technical-committee}_, Subcommittee SC {subcommittee-number}, _{subcommittee}_.
+
+
+[reviewer=Metanorma,date=2017-01-01,from=foreword,to=foreword]
+****
+A Foreword shall appear in each document. The generic text is shown here. It does not contain requirements, recommendations or permissions.
+
+For further information on the Foreword, see *ISO/IEC Directives, Part 2, 2016, Clause 12.*
+****

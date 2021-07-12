@@ -1,0 +1,11 @@
+= Title
+Metadata goes here
+
+
+include::sections/00_foreword.adoc[]
+include::sections/01_introduction.adoc[]
+include::sections/03_terms_definitions.adoc[]
+include::sections/04_content_section.adoc[]
+include::sections/a1_annex.adoc[]
+include::sections/a2_annex.adoc[]
+include::sections/b0_bibliography.adoc[]

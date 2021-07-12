@@ -31,5 +31,5 @@ metanorma:
       - sources/technical-specification/document.adoc
 
   collection:
-    organization: "Metanorma : Standards for standards"
-    name: "ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)"
+    organization: 'Metanorma : The standard for standards'
+    name: 'Vanilla Metanorma documents using the standard document model (standoc) (Metanorma AsciiDoc syntax)'

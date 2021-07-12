@@ -1,20 +1,16 @@
-= ISO Rice document in Metanorma (Metanorma-ISO)
-
-image:https://github.com/metanorma/mn-samples-iso/workflows/generate/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?query=workflow%3Agenerate"]
-image:https://github.com/metanorma/mn-samples-iso/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?query=workflow%3Adocker"]
+= ISO Rice document in vanilla Metanorma (Metanorma-standoc)
 
 This document is available in its rendered forms here:
 
-* https://metanorma.github.io/mn-samples-iso/[ISO Rice document (repository)]
+https://kickoke.github.io/mn-samples-standoc/[Rice document (repository)]
 
 == Introduction
 
-This repository provides a readily usable  https://github.com/metanorma/metanorma-iso[Metanorma-ISO]
+This repository provides a readily usable  https://github.com/metanorma/metanorma-iso[Metanorma-Standoc]
 source document based on the
 https://www.iso.org/publication/PUB100407.html["`Rice document`"],
 the ISO's model document of an international standard.
 
-Refer to the https://www.metanorma.com/overview/getting-started/[Metanorma quickstart] for a primer on creating Metanorma-ISO documents.
 
 
 == Fetching the document
