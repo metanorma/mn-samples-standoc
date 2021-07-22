@@ -3,7 +3,6 @@
 
 For each test method, the test report shall specify the following:
 
-[loweralpha]
 . all information necessary for the complete identification of the sample;
 . a reference to this document (i.e. ISO {docnumber}-{partnumber});
 . the sampling method used;
