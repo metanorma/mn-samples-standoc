@@ -1,7 +1,7 @@
 = Sample document: Rice
 :technical-committee: Food products
 :fullname: Tina Luedtke
-:mn-document-class: standoc 
+:mn-document-class: standoc
 :doctype: standard
 :language: en
 :created-date: 2021-07-12
@@ -9,6 +9,7 @@
 :edition: 1
 :status: draft
 :draft:
+:local-cache-only:
 
 include::sections/00-foreword.adoc[]
 include::sections/00-introduction.adoc[]
