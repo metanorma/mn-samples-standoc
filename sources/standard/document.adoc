@@ -2,13 +2,14 @@
 :technical-committee: Food products
 :fullname: Tina Luedtke
 :mn-document-class: standoc
-:doctype: standard
+:doctype: document
 :language: en
 :created-date: 2021-07-12
+:copyright: Ribose Inc.
 :copyright-year: 2021
 :edition: 1
-:status: draft
-:draft:
+:docstage: 60
+
 :local-cache-only:
 
 include::sections/00-foreword.adoc[]

@@ -1,9 +1,0 @@
----
-metanorma:
-  source:
-    files:
-      - sources/standard/document.adoc
-
-  collection:
-    organization: 'Metanorma : The standard for standards'
-    name: 'Vanilla Metanorma documents using the standard document model (standoc) (Metanorma AsciiDoc syntax)'

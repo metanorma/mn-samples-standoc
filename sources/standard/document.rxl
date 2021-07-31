@@ -1,0 +1,32 @@
+<bibdata type="standard">
+<title language="en" format="text/plain">Sample document: Rice</title>
+
+
+<date type="created">
+<on>2021-07-12</on>
+</date>
+<contributor>
+<role type="author"/>
+<person>
+<name>
+<completename>Tina Luedtke</completename>
+</name>
+</person>
+</contributor>
+<edition>1</edition>
+
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage>60</stage>
+</status>
+<copyright>
+<from>2021</from>
+</copyright>
+<ext>
+<doctype>document</doctype>
+<editorialgroup>
+<technical-committee>Food products</technical-committee>
+</editorialgroup>
+</ext>
+</bibdata>
