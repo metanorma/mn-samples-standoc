@@ -5,10 +5,10 @@
 :doctype: document
 :language: en
 :created-date: 2021-07-12
-:copyright: Ribose Inc.
+:copyright-holder: Ribose Inc.
 :copyright-year: 2021
 :edition: 1
-:docstage: 60
+
 
 :local-cache-only:
 

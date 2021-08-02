@@ -18,10 +18,15 @@
 <language>en</language>
 <script>Latn</script>
 <status>
-<stage>60</stage>
+<stage>published</stage>
 </status>
 <copyright>
 <from>2021</from>
+<owner>
+<organization>
+<name>Ribose Inc.</name>
+</organization>
+</owner>
 </copyright>
 <ext>
 <doctype>document</doctype>
