@@ -1,0 +1,40 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO Rice document in vanilla Metanorma (Metanorma-standoc</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+  <title format="text/plain" language="en">Sample document: Rice</title>
+  <uri type="xml">documents/standard/document.xml</uri>
+  <uri type="pdf">documents/standard/document.pdf</uri>
+  <uri type="doc">documents/standard/document.doc</uri>
+  <uri type="html">documents/standard/document.html</uri>
+  <uri type="rxl">documents/standard/document.rxl</uri>
+  <date type="created">
+    <on>2021-07-12</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Tina Luedtke</completename>
+      </name>
+    </person>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Ribose Inc.</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>document</doctype>
+    <editorialgroup>
+      <technical-committee>Food products</technical-committee>
+    </editorialgroup>
+  </ext>
+</bibdata></relation>
+</relaton-collection>
