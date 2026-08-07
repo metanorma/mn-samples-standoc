@@ -1,0 +1,8 @@
+metanorma:
+  source:
+    files:
+      - sources/standard/document.adoc
+
+  collection:
+    organization: "Metanorma : Standards for standards"
+    name: "ISO Rice document in vanilla Metanorma (Metanorma-standoc"
